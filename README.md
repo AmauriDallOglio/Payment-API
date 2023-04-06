@@ -31,7 +31,9 @@ De: Pagamento Aprovado   Para: Cancelada
 De: Enviado para Transportador. Para: Entregue
 A API não precisa ter mecanismos de autenticação/autorização;
 A aplicação não precisa implementar os mecanismos de persistência em um banco de dados, eles podem ser persistidos "em memória".
+--------------------------------------------------------------------------------------------------
 PONTOS QUE SERÃO AVALIADOS
+--------------------------------------------------------------------------------------------------
 Arquitetura da aplicação - embora não existam muitos requisitos de negócio, iremos avaliar como o projeto foi estruturada, bem como camadas e suas responsabilidades;
 Programação orientada a objetos;
 Boas práticas e princípios como SOLID, DDD (opcional), DRY, KISS;
