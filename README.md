@@ -42,3 +42,10 @@ Uso correto do padrão REST;
 Agora é sua vez de se destacar! Implemente todos os conceitos que aprendemos até aqui para a construção da sua API REST. Seja criativo e aproveite todos os conhecimentos adquiridos até aqui. 
 
 Bons Estudos! laugh
+
+
+--------------------------------------------------------------------------------------------------
+Projeto terminado
+--------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/13471113/230406023-3ed66b86-c3a6-4aa5-9070-3fc28503b143.png)
+
